@@ -6,4 +6,4 @@ steps:
 - name: homemade linter
   image: imbofaker007/schemistry_cli
   settings:
-    name: faker
+    name: faker1
